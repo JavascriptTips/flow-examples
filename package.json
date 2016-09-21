@@ -1,0 +1,30 @@
+{
+  "name": "flow-examples",
+  "version": "1.0.0",
+  "description": "flow.js examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptTips/flow-examples.git"
+  },
+  "keywords": [
+    "flow.js",
+    "examples"
+  ],
+  "author": "zhouyg",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JavascriptTips/flow-examples/issues"
+  },
+  "homepage": "https://github.com/JavascriptTips/flow-examples#readme",
+  "dependencies": {
+    "flow": "^0.2.3"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.32.0"
+  }
+}
