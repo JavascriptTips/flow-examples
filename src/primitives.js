@@ -25,9 +25,3 @@ var b1:boolean = false;
 var n:null = null;
 
 var undef:void = undefined;
-
-
-var aa:?number = null;
-var bb:?number = 1;
-var cc:?number = undefined;
-
