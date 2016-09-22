@@ -2,6 +2,8 @@
  * 限定于 几个值
  */
 
-type A = 'A' | 'B'
-
-var a:A = 'C';
+/**
+ * 可能有多个类型
+ */
+var dd:number|string = 22
+var ee:number|string = 'abcd'
