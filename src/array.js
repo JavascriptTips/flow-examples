@@ -6,7 +6,7 @@
 
 
 //基于基本类似的数组，数组内都是相同类型
-var numberArr:number[] = [12,3,4,5,2];
+var numberArr:number[] = [12,3,12,5,2];
 //另一个写法
 var numberAr2r:Array<number> = [12,3,2,3];
 
