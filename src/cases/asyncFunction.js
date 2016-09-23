@@ -1,5 +1,11 @@
 'use strict'
 //@flow
+
+import fn from './fn.js'
+
+var b:number = fn('a');
+
+//@flow
 class DataType{
   name:string;
   sex:number;
